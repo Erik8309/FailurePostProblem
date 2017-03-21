@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+    <Name>Application FailurePostProblem</Name>
+    <Assembly>C:\Revit Dev\_TO AUTODESK\FailurePostProblem\FailurePostProblem\bin\Debug\FailurePostProblem.dll</Assembly>
+    <FullClassName>FailurePostProblem.Startup</FullClassName>
+    <ClientId>e97c22a8-a75e-4961-8c8b-50d484aa64e8</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>White Architects, www.white.se</VendorDescription>
+  </AddIn>
+</RevitAddIns>
